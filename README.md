@@ -1,5 +1,4 @@
-## Hi there 👋
-Hi there, I'm Kristi Helm! 👋
+## Hi there 👋 I'm Kristi Helm! 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a strong interest in creating impactful and innovative applications. I specialize in web and mobile development and am always eager to learn and take on new challenges.
 
