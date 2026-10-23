@@ -1,52 +1,35 @@
-# Hi there, I'm Kristi Helm! 👋
+# Hi, I'm Kristi Helm 👋
 
-Welcome to my GitHub profile! I’m a passionate software developer focused on creating impactful and innovative applications. Specializing in web and mobile development, I’m always eager to learn and tackle new challenges.
+### Certified Pharmacy Technician → Biomedical Informatics | Biology + AI in Medicine
 
-## 🚀 About Me
+I'm an NHA Certified Pharmacy Technician (CPhT) teaching myself biomedical informatics. At the pharmacy counter, I learned that good patient care depends on accurate data, and now I'm learning how biology, clinical data, and AI can make medicine better. I'm a beginner, and I learn in public.
 
-- 🎓 Currently expanding my skills through Coursera, Zenva, and Unity.
-- 💼 Aspiring to make a difference in the world through software development, with a goal to become a skilled software engineer.
-- 🖥️ Recent projects include a personal website for showcasing art, a to-do list application called GoalGetta, and a tech news aggregation app named TechEvolution.
-- 🌍 Passionate about coding projects that make a meaningful impact and improve lives.
+- 💊 CPhT with pharmacy experience at Hy-Vee Pharmacy
+- 🎓 Studying for an A.S. in Healthcare Administration (Applied AI) at Campus.edu
+- 🔐 Cybersecurity certificate from DMACC
+- 📍 Stamford, CT
 
-## 🔧 Skills & Technologies
+## 📚 Currently Learning
+- Molecular biology: central dogma, transcription, translation, gene structure
+- Python for bioinformatics: [Rosalind](https://rosalind.info) problems and Biopython
+- Health data: EHRs, FHIR, and SQL
 
-- **Languages**: JavaScript, HTML, CSS, Python
-- **Frontend**: React, Vue.js, CSS Frameworks (Bootstrap, Tailwind CSS)
-- **Backend**: Node.js, Express, MongoDB, Mongoose
-- **Tools**: Git, GitHub, Stripe, APIs
-- **Other**: UI/UX Design, Responsive Web Design, Data Structures & Algorithms
+## 🚀 Featured Projects
+| Project | What it is |
+|---|---|
+| [biomedical-informatics-journey](https://github.com/Kahelm621/biomedical-informatics-journey) | My learning log: Rosalind solutions, biology notes, and the in-progress **Gene to Protein with Biopython** project |
+| [SocialMediaDataAnalysis](https://github.com/Kahelm621/SocialMediaDataAnalysis) | Python data analysis of engagement data with Pandas and Matplotlib |
+| [SentryScan](https://github.com/Kahelm621/SentryScan) | Python web vulnerability scanner (SQLi, XSS, CSRF) |
 
-## 📂 Key Projects
+## 🛠️ Tools & Tech
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Biopython](https://img.shields.io/badge/Biopython-2E8B57)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-- **[MarcsGalacticArtistry.com](https://marcsgalacticartistry.com)**: A comprehensive website for showcasing and selling art, featuring various display options, payment integration, and a backend for item management.
-- **[GoalGetta](https://github.com/Kahelm621/GoalGetta)**: A to-do list app with task management features, designed to help users stay organized and achieve their goals.
-- **[TechEvolution](https://github.com/Kahelm621/TechEvolution)**: A tech news aggregation app that collects and displays the latest tech news from various sources.
-
-## 🌟 Achievements
-
-- **[Coursera Certifications](https://www.coursera.org/accomplishments)**: Completed various courses to enhance my knowledge and skills in software development.
-- **[GitHub Profile](https://github.com/Kahelm621)**: Explore my repositories to see my work and contributions.
-
-## 📫 Get in Touch
-
-- **LinkedIn**: [Kristi Helm](https://www.linkedin.com/in/kristi-helm/)
-- **Email**: [khelmshustle@gmail.com](mailto:khelmshustle@gmail.com)
-
-Thank you for visiting my GitHub profile! Feel free to reach out if you have any questions or would like to collaborate on a project. Happy coding! 🚀
-
-<!--
-**Kahelm621/Kahelm621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+## 📫 Connect
+[![X](https://img.shields.io/badge/@AyngelBytes-000000?logo=x&logoColor=white)](https://x.com/AyngelBytes)
+[![GitHub](https://img.shields.io/badge/Kahelm621-181717?logo=github&logoColor=white)](https://github.com/Kahelm621)
