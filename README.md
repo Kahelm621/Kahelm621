@@ -17,7 +17,7 @@ I'm an NHA Certified Pharmacy Technician (CPhT) teaching myself biomedical infor
 ## 🚀 Featured Projects
 | Project | What it is |
 |---|---|
-| [biomedical-informatics-journey](https://github.com/Kahelm621/biomedical-informatics-journey) | My learning log: Rosalind solutions, biology notes, and the in-progress **Gene to Protein with Biopython** project |
+| [biomedical-informatics-journey](https://github.com/Kahelm621/biomedical-informatics-journey) | My learning log: Rosalind solutions, biology notes, and my flagship **PGx Navigator** project (CYP2D6 genotype → drug response) |
 | [SocialMediaDataAnalysis](https://github.com/Kahelm621/SocialMediaDataAnalysis) | Python data analysis of engagement data with Pandas and Matplotlib |
 | [SentryScan](https://github.com/Kahelm621/SentryScan) | Python web vulnerability scanner (SQLi, XSS, CSRF) |
 
